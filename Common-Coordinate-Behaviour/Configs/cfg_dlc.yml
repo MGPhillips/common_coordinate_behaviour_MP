@@ -1,0 +1,6 @@
+'clips': ''
+'clips_folder': 'C:\Users\matthewp.W221N\Documents\analysis\clips_baa'
+dlc_network_posecfg: 'C:\Users\matthewp.W221N\Documents\GitHub\DeepLabCut\pose-tensorflow\models\DWMNov25-trainset95shuffle1\test'
+'dlc_network_snapshot': 'C:\Users\matthewp.W221N\Documents\GitHub\DeepLabCut\pose-tensorflow\models\DWMNov25-trainset95shuffle1\train\snapshot-700000'
+'scorer': 'DeepCut_resnet50_Phillips_MG_700000'
+'store trial videos': True

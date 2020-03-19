@@ -1,0 +1,6 @@
+'clips': ''
+'clips_folder': 'C:\Users\matthewp.W221N\Documents\analysis\clips_baa'
+dlc_network_posecfg: 'C:\Windows\System32\DWM_only-phillips_mg-2019-11-07\dlc-models\iteration-0\DWM_onlyNov7-trainset95shuffle1\test'
+'dlc_network_snapshot': 'C:\Windows\System32\DWM_only-phillips_mg-2019-11-07\dlc-models\iteration-0\DWM_onlyNov7-trainset95shuffle1\train\snapshot-800000'
+'scorer': 'DeepCut_resnet50_phillips_mg_800000'
+'store trial videos': True

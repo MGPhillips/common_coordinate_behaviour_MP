@@ -1,0 +1,6 @@
+'clips': ''
+'clips_folder': 'C:\Users\matthewp.W221N\Documents\analysis\clips_baa'
+dlc_network_posecfg: 'C:\Users\matthewp.W221N\Documents\analysis\190916_mouserotation-phillips_m_g-2019-09-16\dlc-models\iteration-0\190916_mouserotationSep16-trainset95shuffle1\test'
+'dlc_network_snapshot': 'C:\Users\matthewp.W221N\Documents\analysis\190916_mouserotation-phillips_m_g-2019-09-16\dlc-models\iteration-0\190916_mouserotationSep16-trainset95shuffle1\train\snapshot-800000'
+'scorer': 'DeepCut_resnet50_BigArena2May8shuffle1_800000'
+'store trial videos': True
